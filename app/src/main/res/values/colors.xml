@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6C63FF</color>
+    <color name="colorPrimaryDark">#5A52D5</color>
+    <color name="colorAccent">#7C6FFF</color>
+
+    <color name="icare_primary">#6C63FF</color>
+    <color name="icare_primary_dark">#5A52D5</color>
+    <color name="icare_primary_light">#E8E5FF</color>
+
+    <color name="mood_high">#4CAF50</color>
+    <color name="mood_medium">#FFC107</color>
+    <color name="mood_low">#F44336</color>
+</resources>
